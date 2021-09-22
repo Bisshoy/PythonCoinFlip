@@ -12,5 +12,4 @@ while (len(key) == 0):
         key = input("Press ENTER to flip again! Input anything else to quit! ")
 
 if len(key) != 0:
-    print("Goodbye!") 
-
+    print("Goodbye! Thanks for using Flipper!") 
